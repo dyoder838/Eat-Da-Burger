@@ -34,6 +34,8 @@ In a command terminal, type: npm install.
 In a command terminal, type: node index, or nodemon
 In your browser go to local host:8080 
 
+![Deployed Eat Da Burger](https://djy-eat-da-burger.herokuapp.com/)
+
 
 ## Credits
 
